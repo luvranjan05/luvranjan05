@@ -1,5 +1,5 @@
-                                        💫 Hi 👋, I'm Ranjan kumar pandey
-                                   A full stack web deveoper || spring boot and react.js || 
+                                  💫 Hi 👋, I'm Ranjan kumar pandey
+                             A full stack web deveoper || spring boot and react.js || 
 
 ![](https://github-profile-trophy.vercel.app/?username=luvranjan05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
