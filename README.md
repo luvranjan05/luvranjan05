@@ -4,12 +4,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=luvranjan05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-Email Me 👉 ✉️ ranjanpanday420@gmail.com For Collaboration/Project or Anything Else.</br> 😊😊
-🌱 I’m currently learning: spring security
-👯 I’m looking to collaborate on: full stack web development
-🤔 I’m looking for help with any project 
-💬 Ask me about: Collaboration, Tech Support
-📫 How to reach me: ranjanpanday420@gmail.com
+Email Me 👉 ✉️ ranjanpanday420@gmail.com For Collaboration/Project or Anything Else.</br> 
+🌱 I’m currently learning: spring security</br> 
+👯 I’m looking to collaborate on: full stack web development</br> 
+🤔 I’m looking for help with any project </br> 
+💬 Ask me about: Collaboration, Tech Support </br> 
+📫 How to reach me: ranjanpanday420@gmail.com </br> 
 😄 Pronouns: ranjan
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/404_ranjan/) 
