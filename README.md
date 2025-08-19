@@ -1,5 +1,8 @@
 💫 Hi 👋, I'm Ranjan kumar pandey
-A full stack web deveoper || website || 
+A full stack web deveoper || spring boot and react.js || 
+
+![](https://github-profile-trophy.vercel.app/?username=luvranjan05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 Email Me 👉 ✉️ ranjanpanday420@gmail.com For Collaboration/Project or Anything Else. 😊😊
 🌱 I’m currently learning: spring security
@@ -8,7 +11,7 @@ Email Me 👉 ✉️ ranjanpanday420@gmail.com For Collaboration/Project or Anyt
 💬 Ask me about: Collaboration, Tech Support
 📫 How to reach me: ranjanpanday420@gmail.com
 😄 Pronouns: ranjan
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/404_ranjan/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luvranjan/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranjanpanday420@gmail.com)
